@@ -40,3 +40,4 @@ step.2) Go to OPTION 1 and repeat step.6 & step.7.
 --------------------------------------------------
 ![sh](https://user-images.githubusercontent.com/31376025/54943171-cc442f80-4f41-11e9-9c3c-e2444e646f1c.jpg)
 --------------------------------------------------
+![pl](https://user-images.githubusercontent.com/31376025/54943379-2e049980-4f42-11e9-8d9a-d5da31abd5e3.png)

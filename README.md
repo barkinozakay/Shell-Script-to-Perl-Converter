@@ -1,5 +1,4 @@
 # Shell-Script-to-Perl-Converter
-![sh](https://user-images.githubusercontent.com/31376025/54943171-cc442f80-4f41-11e9-9c3c-e2444e646f1c.jpg)
 
 Converting .sh files to compilable .pl files by using LEX &amp; YACC.
 
@@ -38,3 +37,5 @@ step.1) To make the compilation steps easier, you can simply write "make" to the
 	"make" command will simply run the first 5 steps in OPTION 1 by using our "Makefile".
 
 step.2) Go to OPTION 1 and repeat step.6 & step.7.
+
+![sh](https://user-images.githubusercontent.com/31376025/54943171-cc442f80-4f41-11e9-9c3c-e2444e646f1c.jpg)
